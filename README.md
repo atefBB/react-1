@@ -1,5 +1,5 @@
-<div align="center">
-<h1>React+TypeScript Cheatsheets</h1>
+<div dir="rtl">
+<h1>React+TypeScript أوراق الغش</h1>
 
 <a href="https://github.com/typescript-cheatsheets/react-typescript-cheatsheet/issues/81">
   <img
@@ -11,7 +11,7 @@
   />
 </a>
 
-<p>Cheatsheets for experienced React developers getting started with TypeScript</p>
+<p>أوراق الغش لمطوري React ذوي الخبرة للبدء مع TypeScript</p>
 
 [**Web docs**](https://react-typescript-cheatsheet.netlify.app/docs/basic/setup) |
 [中文翻译](https://github.com/fi3ework/blog/tree/master/react-typescript-cheatsheet-cn) |
